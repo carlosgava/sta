@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="@dimen/component_margin" 
+    >
+
+    <TextView
+        android:text="@string/texto_quantidade" 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="left"
+        />
+
+    <EditText
+        android:id="@+id/id_fragment_favoritos_quantidade_qtde"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:inputType="number" 
+        android:layout_marginTop="5dp"
+        android:hint="@string/quantidade"
+        />
+
+</LinearLayout>

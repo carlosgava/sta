@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="220dp"
+    android:layout_height="260dp"
+    android:padding="5dp"
+     >
+    
+	<ImageButton
+       android:id="@+id/id_layout_item_artigo_image_button"
+       android:layout_width="220dp"
+       android:layout_height="260dp"
+       android:src="@drawable/e2_2775_nautico"
+       android:scaleType="fitXY"
+       android:padding="0dp"
+	/>    
+	
+	<ImageButton
+	    android:id="@+id/id_layout_item_artigo_botao_pedido"
+	    android:layout_width="48dp"
+	    android:layout_height="48dp"
+	    android:scaleType="fitXY"
+	    android:padding="0dp" 
+	    android:layout_alignLeft="@+id/id_layout_item_artigo_image_button"
+	    android:layout_alignBottom="@+id/id_layout_item_artigo_image_button"
+	    android:visibility="visible"
+	    />
+    
+	<ImageButton
+	    android:id="@+id/id_layout_item_artigo_botao_favorito"
+	    android:layout_width="48dp"
+	    android:layout_height="48dp"
+	    android:scaleType="fitXY"
+	    android:padding="0dp" 
+	    android:layout_alignRight="@+id/id_layout_item_artigo_image_button"
+	    android:layout_alignBottom="@+id/id_layout_item_artigo_image_button"
+	    android:visibility="visible"
+	    />
+    
+	
+</RelativeLayout>

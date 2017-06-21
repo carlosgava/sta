@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+    <item android:id="@+id/id_menu_cartela_cores_compartilhar"
+          android:icon="@drawable/icon_share"
+          android:title="@string/compartilhar"
+          android:showAsAction="always" 
+          android:onClick="onCompartilharClick"/>
+    
+    <item android:id="@+id/abrir_ficha_tecnica"
+          android:icon="@drawable/icon_ficha_tecnica"
+          android:title="@string/opcoes"
+          android:showAsAction="ifRoom" 
+          android:onClick="onFichaTecnicaClick"/>
+    
+    
+</menu>

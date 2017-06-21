@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    	android:id="@+id/artigo_item"
+    	android:text="@string/mascaras_para_atualizar" 
+        android:drawableRight="@drawable/bt_download_down"
+        android:textAlignment="gravity"
+        android:layout_gravity="center_vertical"
+        android:gravity="center_vertical"
+        android:layout_width="wrap_content" 
+        android:layout_height="wrap_content" 
+        android:background="@drawable/background_small"
+        android:layout_margin="@dimen/component_margin"
+        android:paddingLeft="@dimen/component_margin"/>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+	tools:context=".ColecoesActivity" >
+	<LinearLayout 
+	    android:layout_height="wrap_content"
+	    android:layout_width="match_parent"
+	    android:orientation="vertical"
+	    android:layout_margin="@dimen/activity_margin">
+	    
+	    <FrameLayout android:id="@+id/colecoes" 
+	        	android:layout_width="match_parent" 
+	        	android:layout_height="wrap_content"/>
+	
+	</LinearLayout>
+</ScrollView>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+    <item android:id="@+id/id_menu_impressao_ficha_tecnica"
+          android:icon="@drawable/icon_ficha_tecnica"
+          android:title="@string/ficha_tecnica"
+          android:showAsAction="ifRoom" 
+          android:onClick="onFichaTecnicaClick"/>
+    
+    <item android:id="@+id/id_menu_impressao_pedido"
+          android:icon="@drawable/icon_quantity"
+          android:title="@string/pedido"
+          android:showAsAction="ifRoom" 
+          android:onClick="onPedidoClick"/>
+    
+    <item android:id="@+id/id_menu_impressao_favoritos"
+          android:icon="@drawable/icon_check_on"
+          android:title="@string/favoritos"
+          android:showAsAction="ifRoom" 
+          android:onClick="onFavoritosClick"/>
+    
+    <item android:id="@+id/id_menu_impressao_distribuicao"
+          android:icon="@drawable/icon_distribution"
+          android:title="@string/distribuicao"
+          android:showAsAction="ifRoom" 
+          android:onClick="onDistribuicaoClick"/>
+</menu>

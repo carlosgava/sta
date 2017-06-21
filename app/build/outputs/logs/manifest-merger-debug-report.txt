@@ -1,0 +1,259 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:2:1-157:12
+	package
+		ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:11:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:12:22-76
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:13:5-84
+	android:name
+		ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:13:22-81
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:14:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:15:5-80
+	android:name
+		ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:15:22-77
+uses-permission#android.permission.WRITE_OWNER_DATA
+ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:16:5-75
+	android:name
+		ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:16:22-72
+uses-permission#android.permission.USE_CREDENTIALS
+ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:17:5-74
+	android:name
+		ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:17:22-71
+uses-permission#android.permission.AUTHENTICATE_ACCOUNTS
+ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:18:5-80
+	android:name
+		ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:18:22-77
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:19:5-71
+	android:name
+		ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:19:22-68
+uses-permission#android.permission.MANAGE_ACCOUNTS
+ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:20:5-74
+	android:name
+		ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:20:22-71
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:21:5-75
+	android:name
+		ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:21:22-72
+uses-permission#android.permission.READ_SYNC_SETTINGS
+ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:22:5-77
+	android:name
+		ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:22:22-74
+uses-permission#android.permission.WRITE_SYNC_SETTINGS
+ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:23:5-78
+	android:name
+		ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:23:22-75
+uses-permission#android.permission.READ_SYNC_STATS
+ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:24:5-74
+	android:name
+		ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:24:22-71
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:25:2-69
+	android:name
+		ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:25:19-66
+uses-permission#com.android.email.permission.ACCESS_PROVIDER
+ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:26:2-80
+	android:name
+		ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:26:19-78
+uses-permission#com.android.email.permission.READ_ATTACHMENT
+ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:27:5-83
+	android:name
+		ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:27:22-81
+application
+ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:29:5-155:23
+	android:label
+		ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:32:9-41
+	android:allowBackup
+		ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:30:9-35
+	android:icon
+		ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:31:9-38
+	android:theme
+		ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:33:9-50
+activity#br.com.santaconstacia.sta.MainActivity
+ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:34:9-42:20
+	android:label
+		ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:36:13-45
+	android:name
+		ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:35:13-66
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:37:13-41:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:38:17-69
+	android:name
+		ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:38:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:40:17-77
+	android:name
+		ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:40:27-74
+activity#br.com.santaconstacia.sta.WebSiteActivity
+ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:43:9-46:20
+	android:label
+		ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:45:13-36
+	android:name
+		ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:44:13-44
+activity#br.com.santaconstacia.sta.vudroid.PdfViewerActivity
+ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:47:17-58:20
+	android:screenOrientation
+		ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:50:21-57
+	android:configChanges
+		ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:49:21-71
+	android:name
+		ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:48:21-62
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:52:13-57:29
+action#android.intent.action.VIEW
+ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:53:17-68
+	android:name
+		ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:53:25-66
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:54:17-75
+	android:name
+		ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:54:27-73
+category#android.intent.category.BROWSABLE
+ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:55:17-77
+	android:name
+		ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:55:27-75
+data
+ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:56:17-59
+	android:mimeType
+		ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:56:23-57
+activity#br.com.santaconstacia.sta.vudroid.DjvuViewerActivity
+ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:59:9-66:20
+	android:configChanges
+		ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:59:62-112
+	android:name
+		ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:59:19-61
+activity#br.com.santaconstacia.sta.colecoes.ColecoesActivity
+ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:67:9-74:20
+	android:label
+		ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:69:13-37
+	android:parentActivityName
+		ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:70:13-80
+	android:name
+		ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:68:13-54
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:71:13-73:70
+	android:value
+		ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:73:13-67
+	android:name
+		ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:72:13-59
+activity#br.com.santaconstacia.sta.colecoes.SubColecoesActivity
+ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:75:9-82:20
+	android:label
+		ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:77:13-37
+	android:parentActivityName
+		ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:78:13-80
+	android:name
+		ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:76:13-57
+activity#br.com.santaconstacia.sta.colecoes.ColecaoActivity
+ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:83:9-91:20
+	android:screenOrientation
+		ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:86:13-50
+	android:label
+		ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:85:13-36
+	android:parentActivityName
+		ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:87:13-93
+	android:name
+		ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:84:13-53
+activity#br.com.santaconstacia.sta.colecoes.ArtigoActivity
+ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:92:9-99:20
+	android:label
+		ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:94:13-36
+	android:parentActivityName
+		ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:95:13-92
+	android:name
+		ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:93:13-52
+activity#br.com.santaconstacia.sta.colecoes.ImpressaoGalleryActivity
+ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:100:9-108:20
+	android:screenOrientation
+		ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:103:13-49
+	android:label
+		ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:102:13-38
+	android:parentActivityName
+		ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:104:13-91
+	android:name
+		ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:101:13-62
+activity#br.com.santaconstacia.sta.colecoes.DistribuicaoActivity
+ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:109:9-117:20
+	android:screenOrientation
+		ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:112:13-50
+	android:label
+		ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:111:13-41
+	android:parentActivityName
+		ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:113:13-101
+	android:name
+		ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:110:13-58
+activity#br.com.santaconstacia.sta.CompartilhamentoActivity
+ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:118:9-126:20
+	android:screenOrientation
+		ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:121:13-50
+	android:label
+		ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:120:13-35
+	android:parentActivityName
+		ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:122:13-80
+	android:name
+		ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:119:13-53
+activity#br.com.santaconstacia.sta.colecoes.CartelaCoresActivity
+ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:127:9-135:20
+	android:screenOrientation
+		ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:130:13-49
+	android:label
+		ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:129:13-45
+	android:parentActivityName
+		ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:131:13-92
+	android:name
+		ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:128:13-58
+activity#br.com.santaconstacia.sta.favoritos.FavoritosActivity
+ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:136:9-144:20
+	android:screenOrientation
+		ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:139:13-50
+	android:label
+		ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:138:13-35
+	android:parentActivityName
+		ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:140:13-80
+	android:name
+		ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:137:13-56
+activity#br.com.santaconstacia.sta.favoritos.ComparadorActivity
+ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:145:9-153:20
+	android:screenOrientation
+		ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:148:13-50
+	android:label
+		ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:147:13-37
+	android:parentActivityName
+		ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:149:13-95
+	android:name
+		ADDED from C:\Users\carlo\Projects\sta\app\src\main\AndroidManifest.xml:146:13-57

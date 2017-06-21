@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "C:\\Users\\carlo\\Projects\\sta\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\folderopen.png",
+        "source": "C:\\Users\\carlo\\Projects\\sta\\app\\src\\main\\res\\drawable-mdpi\\folderopen.png"
+    },
+    {
+        "merged": "C:\\Users\\carlo\\Projects\\sta\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\bt_compartilhamento.png",
+        "source": "C:\\Users\\carlo\\Projects\\sta\\app\\src\\main\\res\\drawable-mdpi\\bt_compartilhamento.png"
+    },
+    {
+        "merged": "C:\\Users\\carlo\\Projects\\sta\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\zoom.png",
+        "source": "C:\\Users\\carlo\\Projects\\sta\\app\\src\\main\\res\\drawable-mdpi\\zoom.png"
+    },
+    {
+        "merged": "C:\\Users\\carlo\\Projects\\sta\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\arrowup.png",
+        "source": "C:\\Users\\carlo\\Projects\\sta\\app\\src\\main\\res\\drawable-mdpi\\arrowup.png"
+    },
+    {
+        "merged": "C:\\Users\\carlo\\Projects\\sta\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\left.png",
+        "source": "C:\\Users\\carlo\\Projects\\sta\\app\\src\\main\\res\\drawable-mdpi\\left.png"
+    },
+    {
+        "merged": "C:\\Users\\carlo\\Projects\\sta\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\center.png",
+        "source": "C:\\Users\\carlo\\Projects\\sta\\app\\src\\main\\res\\drawable-mdpi\\center.png"
+    },
+    {
+        "merged": "C:\\Users\\carlo\\Projects\\sta\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\webview_arrow_left.png",
+        "source": "C:\\Users\\carlo\\Projects\\sta\\app\\src\\main\\res\\drawable-mdpi\\webview_arrow_left.png"
+    },
+    {
+        "merged": "C:\\Users\\carlo\\Projects\\sta\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\bt_comunicacao.png",
+        "source": "C:\\Users\\carlo\\Projects\\sta\\app\\src\\main\\res\\drawable-mdpi\\bt_comunicacao.png"
+    },
+    {
+        "merged": "C:\\Users\\carlo\\Projects\\sta\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\webview_refresh.png",
+        "source": "C:\\Users\\carlo\\Projects\\sta\\app\\src\\main\\res\\drawable-mdpi\\webview_refresh.png"
+    },
+    {
+        "merged": "C:\\Users\\carlo\\Projects\\sta\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\right.png",
+        "source": "C:\\Users\\carlo\\Projects\\sta\\app\\src\\main\\res\\drawable-mdpi\\right.png"
+    },
+    {
+        "merged": "C:\\Users\\carlo\\Projects\\sta\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\bt_colecoes.png",
+        "source": "C:\\Users\\carlo\\Projects\\sta\\app\\src\\main\\res\\drawable-mdpi\\bt_colecoes.png"
+    },
+    {
+        "merged": "C:\\Users\\carlo\\Projects\\sta\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\book.png",
+        "source": "C:\\Users\\carlo\\Projects\\sta\\app\\src\\main\\res\\drawable-mdpi\\book.png"
+    },
+    {
+        "merged": "C:\\Users\\carlo\\Projects\\sta\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\pdf.png",
+        "source": "C:\\Users\\carlo\\Projects\\sta\\app\\src\\main\\res\\drawable-mdpi\\pdf.png"
+    },
+    {
+        "merged": "C:\\Users\\carlo\\Projects\\sta\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icon_email.png",
+        "source": "C:\\Users\\carlo\\Projects\\sta\\app\\src\\main\\res\\drawable-mdpi\\icon_email.png"
+    },
+    {
+        "merged": "C:\\Users\\carlo\\Projects\\sta\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\webview_close.png",
+        "source": "C:\\Users\\carlo\\Projects\\sta\\app\\src\\main\\res\\drawable-mdpi\\webview_close.png"
+    },
+    {
+        "merged": "C:\\Users\\carlo\\Projects\\sta\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icon_compare.png",
+        "source": "C:\\Users\\carlo\\Projects\\sta\\app\\src\\main\\res\\drawable-mdpi\\icon_compare.png"
+    },
+    {
+        "merged": "C:\\Users\\carlo\\Projects\\sta\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\arrow_right.png",
+        "source": "C:\\Users\\carlo\\Projects\\sta\\app\\src\\main\\res\\drawable-mdpi\\arrow_right.png"
+    },
+    {
+        "merged": "C:\\Users\\carlo\\Projects\\sta\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\bt_search.png",
+        "source": "C:\\Users\\carlo\\Projects\\sta\\app\\src\\main\\res\\drawable-mdpi\\bt_search.png"
+    },
+    {
+        "merged": "C:\\Users\\carlo\\Projects\\sta\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\webview_safari.png",
+        "source": "C:\\Users\\carlo\\Projects\\sta\\app\\src\\main\\res\\drawable-mdpi\\webview_safari.png"
+    },
+    {
+        "merged": "C:\\Users\\carlo\\Projects\\sta\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icon_share.png",
+        "source": "C:\\Users\\carlo\\Projects\\sta\\app\\src\\main\\res\\drawable-mdpi\\icon_share.png"
+    },
+    {
+        "merged": "C:\\Users\\carlo\\Projects\\sta\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\bt_website.png",
+        "source": "C:\\Users\\carlo\\Projects\\sta\\app\\src\\main\\res\\drawable-mdpi\\bt_website.png"
+    },
+    {
+        "merged": "C:\\Users\\carlo\\Projects\\sta\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\stackborder.png",
+        "source": "C:\\Users\\carlo\\Projects\\sta\\app\\src\\main\\res\\drawable-mdpi\\stackborder.png"
+    },
+    {
+        "merged": "C:\\Users\\carlo\\Projects\\sta\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\webview_arrow_right.png",
+        "source": "C:\\Users\\carlo\\Projects\\sta\\app\\src\\main\\res\\drawable-mdpi\\webview_arrow_right.png"
+    },
+    {
+        "merged": "C:\\Users\\carlo\\Projects\\sta\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\bt_atualizacoes.png",
+        "source": "C:\\Users\\carlo\\Projects\\sta\\app\\src\\main\\res\\drawable-mdpi\\bt_atualizacoes.png"
+    },
+    {
+        "merged": "C:\\Users\\carlo\\Projects\\sta\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\serifs.png",
+        "source": "C:\\Users\\carlo\\Projects\\sta\\app\\src\\main\\res\\drawable-mdpi\\serifs.png"
+    },
+    {
+        "merged": "C:\\Users\\carlo\\Projects\\sta\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\logo_background.png",
+        "source": "C:\\Users\\carlo\\Projects\\sta\\app\\src\\main\\res\\drawable-mdpi\\logo_background.png"
+    },
+    {
+        "merged": "C:\\Users\\carlo\\Projects\\sta\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "C:\\Users\\carlo\\Projects\\sta\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\carlo\\Projects\\sta\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\bt_favoritos.png",
+        "source": "C:\\Users\\carlo\\Projects\\sta\\app\\src\\main\\res\\drawable-mdpi\\bt_favoritos.png"
+    },
+    {
+        "merged": "C:\\Users\\carlo\\Projects\\sta\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\bt_color.png",
+        "source": "C:\\Users\\carlo\\Projects\\sta\\app\\src\\main\\res\\drawable-mdpi\\bt_color.png"
+    },
+    {
+        "merged": "C:\\Users\\carlo\\Projects\\sta\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icon.png",
+        "source": "C:\\Users\\carlo\\Projects\\sta\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\carlo\\Projects\\sta\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\bt_download_down.png",
+        "source": "C:\\Users\\carlo\\Projects\\sta\\app\\src\\main\\res\\drawable-mdpi\\bt_download_down.png"
+    },
+    {
+        "merged": "C:\\Users\\carlo\\Projects\\sta\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\bt_info.png",
+        "source": "C:\\Users\\carlo\\Projects\\sta\\app\\src\\main\\res\\drawable-mdpi\\bt_info.png"
+    }
+]

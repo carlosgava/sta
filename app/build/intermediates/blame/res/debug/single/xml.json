@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\carlo\\Projects\\sta\\app\\build\\intermediates\\res\\merged\\debug\\xml\\authenticator.xml",
+        "source": "C:\\Users\\carlo\\Projects\\sta\\app\\src\\main\\res\\xml\\authenticator.xml"
+    },
+    {
+        "merged": "C:\\Users\\carlo\\Projects\\sta\\app\\build\\intermediates\\res\\merged\\debug\\xml\\syncadapter.xml",
+        "source": "C:\\Users\\carlo\\Projects\\sta\\app\\src\\main\\res\\xml\\syncadapter.xml"
+    }
+]

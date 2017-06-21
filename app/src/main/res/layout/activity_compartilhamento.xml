@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+
+    <TextView
+        android:id="@+id/id_compartilhamento_textview"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:text="@string/sem_dados_compartilhados" 
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:visibility="visible"
+        />
+    
+		<GridView  
+		    android:id="@+id/compartilhamento_grid"
+		    android:layout_width="match_parent"
+		    android:layout_height="match_parent"
+		    android:columnWidth="200dp"
+		    android:numColumns="4"
+		    android:verticalSpacing="10dp"
+		    android:horizontalSpacing="10dp"
+		    android:stretchMode="columnWidth"
+		    android:gravity="center"
+		    android:visibility="gone"
+		    android:longClickable="true"
+		/>
+
+</LinearLayout>

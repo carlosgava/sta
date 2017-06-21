@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background" 
+    >
+
+    <ListView
+        android:id="@+id/id_fragment_listview_favoritos"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_above="@+id/id_fragment_listview_favoritos_layout_buttons"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:dividerHeight="1dp"
+        android:padding="5dp" />
+    
+    <LinearLayout
+        android:id="@+id/id_fragment_listview_favoritos_layout_buttons"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_alignParentBottom="true" 
+        android:baselineAligned="false"
+        android:background="@color/black"
+        >
+        <LinearLayout 
+	            android:layout_width="0dp"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1"
+		        android:orientation="vertical"
+            >
+	        <ImageButton
+	            android:id="@+id/id_fragment_listview_favoritos_add_favorito"
+	            android:contentDescription="@string/desc"
+	            android:background="@android:drawable/ic_menu_add"
+	            android:layout_width="50dp"
+	            android:layout_height="50dp"
+	            android:layout_gravity="center"
+	            />
+        </LinearLayout>
+        
+        <LinearLayout 
+	            android:layout_width="0dp"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1"
+		        android:orientation="vertical"
+            >
+	        <ImageButton
+	            android:id="@+id/id_fragment_listview_favoritos_delete_favorito"
+	            android:contentDescription="@string/desc"
+	            android:background="@android:drawable/ic_menu_delete"
+	            android:layout_width="50dp"
+	            android:layout_height="50dp"
+	            android:layout_gravity="center"
+	            />
+        </LinearLayout>
+        
+        <LinearLayout 
+	            android:layout_width="0dp"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1"
+		        android:orientation="vertical"
+            >
+	        <ImageButton
+	            android:id="@+id/id_fragment_listview_favoritos_sair_favorito"
+	            android:contentDescription="@string/desc"
+	            android:background="@android:drawable/ic_lock_power_off"
+	            android:layout_width="50dp"
+	            android:layout_height="50dp"
+	            android:layout_gravity="center"
+	            />
+        </LinearLayout>
+        
+        </LinearLayout>
+   </RelativeLayout>

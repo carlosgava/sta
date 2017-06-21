@@ -1,0 +1,146 @@
+[
+    {
+        "merged": "C:\\Users\\carlo\\Projects\\sta\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_colecoes.xml",
+        "source": "C:\\Users\\carlo\\Projects\\sta\\app\\src\\main\\res\\layout\\activity_colecoes.xml"
+    },
+    {
+        "merged": "C:\\Users\\carlo\\Projects\\sta\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_favoritos_adiciona.xml",
+        "source": "C:\\Users\\carlo\\Projects\\sta\\app\\src\\main\\res\\layout\\fragment_favoritos_adiciona.xml"
+    },
+    {
+        "merged": "C:\\Users\\carlo\\Projects\\sta\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_colecao.xml",
+        "source": "C:\\Users\\carlo\\Projects\\sta\\app\\src\\main\\res\\layout\\fragment_colecao.xml"
+    },
+    {
+        "merged": "C:\\Users\\carlo\\Projects\\sta\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_favoritos.xml",
+        "source": "C:\\Users\\carlo\\Projects\\sta\\app\\src\\main\\res\\layout\\fragment_favoritos.xml"
+    },
+    {
+        "merged": "C:\\Users\\carlo\\Projects\\sta\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_atualizacoes_v2.xml",
+        "source": "C:\\Users\\carlo\\Projects\\sta\\app\\src\\main\\res\\layout\\fragment_atualizacoes_v2.xml"
+    },
+    {
+        "merged": "C:\\Users\\carlo\\Projects\\sta\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_colecoes_item_1.xml",
+        "source": "C:\\Users\\carlo\\Projects\\sta\\app\\src\\main\\res\\layout\\fragment_colecoes_item_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\carlo\\Projects\\sta\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_colecoes_item.xml",
+        "source": "C:\\Users\\carlo\\Projects\\sta\\app\\src\\main\\res\\layout\\fragment_colecoes_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\carlo\\Projects\\sta\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_website.xml",
+        "source": "C:\\Users\\carlo\\Projects\\sta\\app\\src\\main\\res\\layout\\activity_website.xml"
+    },
+    {
+        "merged": "C:\\Users\\carlo\\Projects\\sta\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_favoritos_quantidade.xml",
+        "source": "C:\\Users\\carlo\\Projects\\sta\\app\\src\\main\\res\\layout\\fragment_favoritos_quantidade.xml"
+    },
+    {
+        "merged": "C:\\Users\\carlo\\Projects\\sta\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_impressao.xml",
+        "source": "C:\\Users\\carlo\\Projects\\sta\\app\\src\\main\\res\\layout\\activity_impressao.xml"
+    },
+    {
+        "merged": "C:\\Users\\carlo\\Projects\\sta\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_favoritos_email.xml",
+        "source": "C:\\Users\\carlo\\Projects\\sta\\app\\src\\main\\res\\layout\\fragment_favoritos_email.xml"
+    },
+    {
+        "merged": "C:\\Users\\carlo\\Projects\\sta\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_canais_comunicacao.xml",
+        "source": "C:\\Users\\carlo\\Projects\\sta\\app\\src\\main\\res\\layout\\fragment_canais_comunicacao.xml"
+    },
+    {
+        "merged": "C:\\Users\\carlo\\Projects\\sta\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gotopage.xml",
+        "source": "C:\\Users\\carlo\\Projects\\sta\\app\\src\\main\\res\\layout\\gotopage.xml"
+    },
+    {
+        "merged": "C:\\Users\\carlo\\Projects\\sta\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_item_compartilhado.xml",
+        "source": "C:\\Users\\carlo\\Projects\\sta\\app\\src\\main\\res\\layout\\layout_item_compartilhado.xml"
+    },
+    {
+        "merged": "C:\\Users\\carlo\\Projects\\sta\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_compartilhamento.xml",
+        "source": "C:\\Users\\carlo\\Projects\\sta\\app\\src\\main\\res\\layout\\activity_compartilhamento.xml"
+    },
+    {
+        "merged": "C:\\Users\\carlo\\Projects\\sta\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_impressao_mascaras.xml",
+        "source": "C:\\Users\\carlo\\Projects\\sta\\app\\src\\main\\res\\layout\\fragment_impressao_mascaras.xml"
+    },
+    {
+        "merged": "C:\\Users\\carlo\\Projects\\sta\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_colecao.xml",
+        "source": "C:\\Users\\carlo\\Projects\\sta\\app\\src\\main\\res\\layout\\activity_colecao.xml"
+    },
+    {
+        "merged": "C:\\Users\\carlo\\Projects\\sta\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_item_row_favoritos.xml",
+        "source": "C:\\Users\\carlo\\Projects\\sta\\app\\src\\main\\res\\layout\\layout_item_row_favoritos.xml"
+    },
+    {
+        "merged": "C:\\Users\\carlo\\Projects\\sta\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_cor.xml",
+        "source": "C:\\Users\\carlo\\Projects\\sta\\app\\src\\main\\res\\layout\\activity_cor.xml"
+    },
+    {
+        "merged": "C:\\Users\\carlo\\Projects\\sta\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_autenticacao.xml",
+        "source": "C:\\Users\\carlo\\Projects\\sta\\app\\src\\main\\res\\layout\\dialog_autenticacao.xml"
+    },
+    {
+        "merged": "C:\\Users\\carlo\\Projects\\sta\\app\\build\\intermediates\\res\\merged\\debug\\layout\\browseritem.xml",
+        "source": "C:\\Users\\carlo\\Projects\\sta\\app\\src\\main\\res\\layout\\browseritem.xml"
+    },
+    {
+        "merged": "C:\\Users\\carlo\\Projects\\sta\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_comparacao.xml",
+        "source": "C:\\Users\\carlo\\Projects\\sta\\app\\src\\main\\res\\layout\\activity_comparacao.xml"
+    },
+    {
+        "merged": "C:\\Users\\carlo\\Projects\\sta\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_canal_comunicacao.xml",
+        "source": "C:\\Users\\carlo\\Projects\\sta\\app\\src\\main\\res\\layout\\fragment_canal_comunicacao.xml"
+    },
+    {
+        "merged": "C:\\Users\\carlo\\Projects\\sta\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_item_color.xml",
+        "source": "C:\\Users\\carlo\\Projects\\sta\\app\\src\\main\\res\\layout\\layout_item_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\carlo\\Projects\\sta\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_atualizacoes.xml",
+        "source": "C:\\Users\\carlo\\Projects\\sta\\app\\src\\main\\res\\layout\\fragment_atualizacoes.xml"
+    },
+    {
+        "merged": "C:\\Users\\carlo\\Projects\\sta\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_item_atigo.xml",
+        "source": "C:\\Users\\carlo\\Projects\\sta\\app\\src\\main\\res\\layout\\layout_item_atigo.xml"
+    },
+    {
+        "merged": "C:\\Users\\carlo\\Projects\\sta\\app\\build\\intermediates\\res\\merged\\debug\\layout\\browser.xml",
+        "source": "C:\\Users\\carlo\\Projects\\sta\\app\\src\\main\\res\\layout\\browser.xml"
+    },
+    {
+        "merged": "C:\\Users\\carlo\\Projects\\sta\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_impressao_galery.xml",
+        "source": "C:\\Users\\carlo\\Projects\\sta\\app\\src\\main\\res\\layout\\activity_impressao_galery.xml"
+    },
+    {
+        "merged": "C:\\Users\\carlo\\Projects\\sta\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\carlo\\Projects\\sta\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\carlo\\Projects\\sta\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_colecao_colecao.xml",
+        "source": "C:\\Users\\carlo\\Projects\\sta\\app\\src\\main\\res\\layout\\activity_colecao_colecao.xml"
+    },
+    {
+        "merged": "C:\\Users\\carlo\\Projects\\sta\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_atualizacoes_artigo.xml",
+        "source": "C:\\Users\\carlo\\Projects\\sta\\app\\src\\main\\res\\layout\\fragment_atualizacoes_artigo.xml"
+    },
+    {
+        "merged": "C:\\Users\\carlo\\Projects\\sta\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_distribuicao.xml",
+        "source": "C:\\Users\\carlo\\Projects\\sta\\app\\src\\main\\res\\layout\\activity_distribuicao.xml"
+    },
+    {
+        "merged": "C:\\Users\\carlo\\Projects\\sta\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sub_colecoes.xml",
+        "source": "C:\\Users\\carlo\\Projects\\sta\\app\\src\\main\\res\\layout\\activity_sub_colecoes.xml"
+    },
+    {
+        "merged": "C:\\Users\\carlo\\Projects\\sta\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_impressao_mascaras_item.xml",
+        "source": "C:\\Users\\carlo\\Projects\\sta\\app\\src\\main\\res\\layout\\fragment_impressao_mascaras_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\carlo\\Projects\\sta\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_favoritos.xml",
+        "source": "C:\\Users\\carlo\\Projects\\sta\\app\\src\\main\\res\\layout\\activity_favoritos.xml"
+    },
+    {
+        "merged": "C:\\Users\\carlo\\Projects\\sta\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_message_alert.xml",
+        "source": "C:\\Users\\carlo\\Projects\\sta\\app\\src\\main\\res\\layout\\dialog_message_alert.xml"
+    }
+]

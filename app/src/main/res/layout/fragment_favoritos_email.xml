@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+    
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/background_dark"
+        >
+        
+        <Button
+            android:id="@+id/id_fragment_favoritos_email_button_cancelar"
+            android:text="@string/cancelar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            >
+        </Button>
+        
+        <Button
+            android:id="@+id/id_fragment_favoritos_email_button_continuar"
+            android:text="Continuar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            >
+        </Button>
+        
+        </RelativeLayout>
+    
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        >
+
+        <TextView
+            android:id="@+id/id_frament_favoritos_email_label_para"
+            android:text="Para:"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerInParent="true"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+        /> 
+        
+        <EditText
+            android:id="@+id/id_fragment_favoritos_email_contatos"
+            android:layout_toRightOf="@+id/id_frament_favoritos_email_label_para"
+            android:layout_toLeftOf="@+id/id_favoritos_email_add" 
+            android:inputType="textEmailAddress"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            />
+        
+        <ImageView
+            android:id="@+id/id_favoritos_email_add"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_alignParentRight="true"
+            android:contentDescription="@string/desc"
+            android:scaleType="fitXY"
+            android:src="@drawable/icon_favoritos_email_add"
+            />
+    </RelativeLayout>
+    
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="2dp"
+        android:background="@android:color/darker_gray" 
+        />
+        
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" 
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        >
+        
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_centerVertical="true"
+            android:text="Incluir as Fichas Técnicas nos e-mails?"
+            />
+
+        <CheckBox
+            android:id="@+id/id_fragment_favoritos_email_incluir_infotech"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10dp"
+            />
+
+    </RelativeLayout>
+    
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="2dp"
+        android:background="@android:color/darker_gray" 
+        />
+    
+    <TextView
+        android:text="Escreva uma mensagem personalizada, se desejar:"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        />
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="200dp" 
+        >
+        
+	    <EditText
+	        android:id="@+id/id_fragment_favoritos_email_texto"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:ems="10"
+	        android:layout_marginLeft="10dp"
+	        android:layout_marginRight="10dp"
+	        android:layout_marginBottom="10dp"
+	        android:inputType="textMultiLine" >
+	
+	        <requestFocus />
+	    </EditText>
+        
+    </LinearLayout>
+
+</LinearLayout>

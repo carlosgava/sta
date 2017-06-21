@@ -1,0 +1,50 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+	android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".WebSiteActivity" >
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+         >
+
+	    <WebView
+	        android:id="@+id/browser"
+	        android:layout_width="match_parent"
+	        android:layout_height="fill_parent"
+	        android:background="@android:color/white"/>
+    
+        <ImageButton
+            android:id="@+id/back_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:onClick="onBackClick"
+            android:src="@drawable/webview_arrow_left" />
+
+        <ImageButton
+            android:id="@+id/forward_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@id/back_button"
+            android:layout_toRightOf="@id/back_button"
+            android:onClick="onForwardClick"
+            android:src="@drawable/webview_arrow_right" />
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@id/back_button"
+            android:layout_toRightOf="@id/forward_button"
+            android:onClick="onReloadClick"
+            android:src="@drawable/webview_refresh" />
+    </RelativeLayout>
+
+</LinearLayout>

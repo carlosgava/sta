@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\carlo\\Projects\\sta\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_fragment_favoritos.xml",
+        "source": "C:\\Users\\carlo\\Projects\\sta\\app\\src\\main\\res\\menu\\menu_fragment_favoritos.xml"
+    },
+    {
+        "merged": "C:\\Users\\carlo\\Projects\\sta\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_colecoes.xml",
+        "source": "C:\\Users\\carlo\\Projects\\sta\\app\\src\\main\\res\\menu\\menu_colecoes.xml"
+    },
+    {
+        "merged": "C:\\Users\\carlo\\Projects\\sta\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_distribuicao.xml",
+        "source": "C:\\Users\\carlo\\Projects\\sta\\app\\src\\main\\res\\menu\\menu_distribuicao.xml"
+    },
+    {
+        "merged": "C:\\Users\\carlo\\Projects\\sta\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_artigo.xml",
+        "source": "C:\\Users\\carlo\\Projects\\sta\\app\\src\\main\\res\\menu\\menu_artigo.xml"
+    },
+    {
+        "merged": "C:\\Users\\carlo\\Projects\\sta\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_favoritos.xml",
+        "source": "C:\\Users\\carlo\\Projects\\sta\\app\\src\\main\\res\\menu\\menu_favoritos.xml"
+    },
+    {
+        "merged": "C:\\Users\\carlo\\Projects\\sta\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_compartilhamento.xml",
+        "source": "C:\\Users\\carlo\\Projects\\sta\\app\\src\\main\\res\\menu\\menu_compartilhamento.xml"
+    },
+    {
+        "merged": "C:\\Users\\carlo\\Projects\\sta\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_impressao.xml",
+        "source": "C:\\Users\\carlo\\Projects\\sta\\app\\src\\main\\res\\menu\\menu_impressao.xml"
+    },
+    {
+        "merged": "C:\\Users\\carlo\\Projects\\sta\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\carlo\\Projects\\sta\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\carlo\\Projects\\sta\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_informacao_tecnica.xml",
+        "source": "C:\\Users\\carlo\\Projects\\sta\\app\\src\\main\\res\\menu\\menu_informacao_tecnica.xml"
+    },
+    {
+        "merged": "C:\\Users\\carlo\\Projects\\sta\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_cartela_cores.xml",
+        "source": "C:\\Users\\carlo\\Projects\\sta\\app\\src\\main\\res\\menu\\menu_cartela_cores.xml"
+    }
+]

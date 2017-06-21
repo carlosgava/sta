@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+    <item android:id="@+id/bt_cartela_cores"
+          android:icon="@drawable/bt_color"
+          android:title="@string/Cartela_de_Cores"
+          android:showAsAction="ifRoom" 
+          android:onClick="onCartelaCoresClick"/>
+</menu>

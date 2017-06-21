@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+    <item android:id="@+id/enviar"
+          android:icon="@drawable/icon_email"
+          android:title="@string/enviar"
+          android:showAsAction="ifRoom" 
+          android:onClick="onEnviarClick"/>
+    
+    <item android:id="@+id/comparar"
+          android:icon="@drawable/icon_compare"
+          android:title="@string/comparar"
+          android:showAsAction="ifRoom" 
+          android:onClick="onCompararClick"/>
+
+    <item android:id="@+id/menu_favoritos_opcoes"
+          android:title="@string/opcoes"
+          android:showAsAction="always" 
+          android:onClick="onOpcoesClick"/>
+
+</menu>

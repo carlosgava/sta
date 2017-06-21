@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="br.com.santaconstacia.sta"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="12"
+        android:targetSdkVersion="18" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_OWNER_DATA" />
+    <uses-permission android:name="android.permission.USE_CREDENTIALS" />
+    <uses-permission android:name="android.permission.AUTHENTICATE_ACCOUNTS" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.MANAGE_ACCOUNTS" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.READ_SYNC_SETTINGS" />
+    <uses-permission android:name="android.permission.WRITE_SYNC_SETTINGS" />
+    <uses-permission android:name="android.permission.READ_SYNC_STATS" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+    <uses-permission android:name="com.android.email.permission.ACCESS_PROVIDER" />
+    <uses-permission android:name="com.android.email.permission.READ_ATTACHMENT" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:theme="@android:style/Theme.Holo" >
+        <activity
+            android:name="br.com.santaconstacia.sta.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="br.com.santaconstacia.sta.WebSiteActivity"
+            android:label="Website" >
+        </activity>
+        <activity
+            android:name="br.com.santaconstacia.sta.vudroid.PdfViewerActivity"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data android:mimeType="application/pdf" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="br.com.santaconstacia.sta.vudroid.DjvuViewerActivity"
+            android:configChanges="orientation|keyboardHidden" >
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data android:mimeType="image/djvu" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="br.com.santaconstacia.sta.colecoes.ColecoesActivity"
+            android:label="Coleções"
+            android:parentActivityName="br.com.santaconstacia.sta.MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="br.com.santaconstacia.sta.MainActivity" />
+        </activity>
+        <activity
+            android:name="br.com.santaconstacia.sta.colecoes.SubColecoesActivity"
+            android:label="Coleções"
+            android:parentActivityName="br.com.santaconstacia.sta.MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="br.com.santaconstacia.sta.colecoes.ColecoesActivity" />
+        </activity>
+        <activity
+            android:name="br.com.santaconstacia.sta.colecoes.ColecaoActivity"
+            android:label="Coleção"
+            android:parentActivityName="br.com.santaconstacia.sta.colecoes.ColecoesActivity"
+            android:screenOrientation="landscape" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="br.com.santaconstacia.sta.colecoes.ColecoesActivity" />
+        </activity>
+        <activity
+            android:name="br.com.santaconstacia.sta.colecoes.ArtigoActivity"
+            android:label="Coleção"
+            android:parentActivityName="br.com.santaconstacia.sta.colecoes.ColecaoActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="br.com.santaconstacia.sta.colecoes.ColecaoActivity" />
+        </activity>
+        <activity
+            android:name="br.com.santaconstacia.sta.colecoes.ImpressaoGalleryActivity"
+            android:label="Impressao"
+            android:parentActivityName="br.com.santaconstacia.sta.colecoes.ArtigoActivity"
+            android:screenOrientation="portrait" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="br.com.santaconstacia.sta.colecoes.ArtigoActivity" />
+        </activity>
+        <activity
+            android:name="br.com.santaconstacia.sta.colecoes.DistribuicaoActivity"
+            android:label="Distribuicao"
+            android:parentActivityName="br.com.santaconstacia.sta.colecoes.ImpressaoGalleryActivity"
+            android:screenOrientation="landscape" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="br.com.santaconstacia.sta.colecoes.ImpressaoGalleryActivity" />
+        </activity>
+        <activity
+            android:name="br.com.santaconstacia.sta.CompartilhamentoActivity"
+            android:label="Início"
+            android:parentActivityName="br.com.santaconstacia.sta.MainActivity"
+            android:screenOrientation="landscape" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="br.com.santaconstacia.sta.MainActivity" />
+        </activity>
+        <activity
+            android:name="br.com.santaconstacia.sta.colecoes.CartelaCoresActivity"
+            android:label="Cartela de Cores"
+            android:parentActivityName="br.com.santaconstacia.sta.colecoes.ColecaoActivity"
+            android:screenOrientation="portrait" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="br.com.santaconstacia.sta.colecoes.ColecaoActivity" />
+        </activity>
+        <activity
+            android:name="br.com.santaconstacia.sta.favoritos.FavoritosActivity"
+            android:label="Início"
+            android:parentActivityName="br.com.santaconstacia.sta.MainActivity"
+            android:screenOrientation="landscape" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="br.com.santaconstacia.sta.MainActivity" />
+        </activity>
+        <activity
+            android:name="br.com.santaconstacia.sta.favoritos.ComparadorActivity"
+            android:label="Favorito"
+            android:parentActivityName="br.com.santaconstacia.sta.favoritos.FavoritosActivity"
+            android:screenOrientation="landscape" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="br.com.santaconstacia.sta.favoritos.FavoritosActivity" />
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+	<item android:id="@+id/id_menu_informacao_tecnica_compartilhar"
+	  android:icon="@drawable/icon_share"
+	  android:title="@string/compartilhar"
+	  android:showAsAction="always" 
+	  android:onClick="onCompartilharClick"/>
+
+</menu>

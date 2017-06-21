@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\carlo\\Projects\\sta\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\border.xml",
+        "source": "C:\\Users\\carlo\\Projects\\sta\\app\\src\\main\\res\\drawable-mdpi\\border.xml"
+    },
+    {
+        "merged": "C:\\Users\\carlo\\Projects\\sta\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\button.xml",
+        "source": "C:\\Users\\carlo\\Projects\\sta\\app\\src\\main\\res\\drawable-mdpi\\button.xml"
+    },
+    {
+        "merged": "C:\\Users\\carlo\\Projects\\sta\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\background_small.jpg",
+        "source": "C:\\Users\\carlo\\Projects\\sta\\app\\src\\main\\res\\drawable-mdpi\\background_small.jpg"
+    },
+    {
+        "merged": "C:\\Users\\carlo\\Projects\\sta\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\background.jpg",
+        "source": "C:\\Users\\carlo\\Projects\\sta\\app\\src\\main\\res\\drawable-mdpi\\background.jpg"
+    }
+]

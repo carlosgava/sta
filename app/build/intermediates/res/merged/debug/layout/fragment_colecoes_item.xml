@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Button xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/colecao_item"
+        android:drawableRight="@drawable/arrow_right"
+        android:layout_width="match_parent" 
+        android:layout_height="wrap_content" 
+        android:layout_margin="@dimen/component_margin"
+        android:padding="@dimen/component_margin"
+        android:textAlignment="gravity"
+        android:gravity="left"
+        android:background="@drawable/button"
+        android:textColor="#FFF"
+        android:onClick="onColecaoClick"/>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+    <item android:id="@+id/mascara"
+          android:title="@string/mascara"
+          android:showAsAction="always|withText" 
+          android:onClick="onMascaraClick"/>
+    
+    <item android:id="@+id/id_menu_distribuicao_compartilhar"
+          android:icon="@drawable/icon_share"
+          android:title="@string/compartilhar"
+          android:showAsAction="always" 
+          android:onClick="onCompartilharClick"/>
+    
+</menu>
